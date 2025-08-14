@@ -1,0 +1,14 @@
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\bin\Debug\net9.0\TestRunner.exe
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\bin\Debug\net9.0\TestRunner.deps.json
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\bin\Debug\net9.0\TestRunner.runtimeconfig.json
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\bin\Debug\net9.0\TestRunner.dll
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\bin\Debug\net9.0\TestRunner.pdb
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\TestRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\TestRunner.AssemblyInfoInputs.cache
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\TestRunner.AssemblyInfo.cs
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\TestRunner.csproj.CoreCompileInputs.cache
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\TestRunner.dll
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\refint\TestRunner.dll
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\TestRunner.pdb
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\TestRunner.genruntimeconfig.cache
+C:\Users\edanz\Documents\edan\TestRunner\TestRunner\obj\Debug\net9.0\ref\TestRunner.dll
